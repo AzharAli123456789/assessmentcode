@@ -1,0 +1,89 @@
+
+.some-page-wrapper {
+  margin: 15px;
+  background-color: white;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+.double-column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 2;
+}
+
+.blue-column {
+  background-color: red;
+  height: 600px;
+}
+
+.green-column {
+    height: 100px;
+    background-color: gray;
+	height: 600px;
+	border: 2px solid green;
+}
+form{
+	alignment:center;
+	
+}
+.comman
+{
+display: inline-block;
+border:3px solid green;
+}
+#head1{
+	color: #043133;
+	font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 600;
+ font-size: 48px;
+ line-height: 72px;
+ text-align:center;
+}
+#fname{
+	color:#4D5959;
+	font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+}
+#emailadd{
+	 #4D5959;
+	 font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+}
+#pwd{
+	#4D5959;
+	 font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+	
+}
+#createaccount
+{
+	background:#007074;
+	margin-top:20px;
+}
+#firstname{
+	text-align:left;
+}
